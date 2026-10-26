@@ -22,8 +22,8 @@ const power = function(base, exponent) {
   return base ** exponent;
 };
 
-const factorial = function() {
-	
+const factorial = function(number) {
+  return number	
 };
 
 // Do not edit below this line
